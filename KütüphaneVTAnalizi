@@ -1,0 +1,46 @@
+Kütüphane Veri Tabanı Analizi
+
+1. Hayata geçirilecek sistem neye hizmet edecektir?
+
+    Hayat geçirilecek olan veri tabanı yöresel yemek kitaplarını içeren bir semt kütüphanesidir.
+    
+2. Veri tabanı hangi ihtiyaçları karşılayacaktır?
+
+    Oluşturulan veri tabanı sistemi bünyesinde yer alan kaynakların kayıtlı künye bilgileri ile veri tabanı içerisinde sorgu yapılabilmektedir.
+    
+3. Veri tabanında hangi veriler depolanacaktır?
+
+   x. Kitap künye bilgileri
+   y. Yazar bilgileri
+   z. Yayınevi bilgileri
+   
+4. Veri tabanında ne tür veriler depolanacaktır?
+
+  * Kitaba ait veriler için;
+    - ISBN
+    - Kitabın adı
+    - Kitabın yazarı
+    - Kitabın basım yeri
+    - Kitabın basım yılı
+    - Kitabın baskı bilgisi
+    - Kitabın sayfa sayısı
+    - Kitabın dili
+    - Hangi yöreye ait yemek kitabı olduğu
+    
+   * Yazara ait veriler için;
+     - Yazar adı 
+     - Yazar soyadı
+     - Yazar adı soyadı 
+     - Yazar numarası
+  
+  *Yayınevi bilgileri;
+     - Yayınevi numarası
+     - Yayınevi adı 
+     - Yayınevi adresi
+     - Yayınevi e-posta
+     - Yayınevi telefon
+    
+    
+    
+    
+    
